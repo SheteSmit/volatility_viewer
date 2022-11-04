@@ -3,7 +3,7 @@
  
 **`Video Demo`:**
 
-[[YouTube](https://img.youtube.com/vi/R7rCxnu68iU/0.jpg)](https://youtu.be/R7rCxnu68iU)
+[![YouTube](https://img.youtube.com/vi/R7rCxnu68iU/0.jpg)](https://youtu.be/R7rCxnu68iU)
 
 We created **`volatility viewer`** to introduce investors to management considerations in evolving markets. Our goal is empowering individual investors to understand the role market volatility may have on investment risk-profiles.
 
