@@ -23,4 +23,5 @@ We created **`volatility viewer`** to introduce investors to management consider
 * CPI: BLS
 * Federal Fund Reserve Rates: FRED
 
-Please check out our [GitHub](https://github.com/AniketPant02/volatility_viewer)! 
+Link to Devpost: [Devpost](https://devpost.com/software/volatility-viewer)
+Please check out our [GitHub](https://github.com/AniketPant02/volatility_viewer)!
