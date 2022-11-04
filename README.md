@@ -1,5 +1,5 @@
 # volatility_viewer
- An interactive tool for studying recent changes in volatility regimes.
+ An interactive tool for studying recent changes in volatility regimes. HackGT9 Winner in the Blackrock Challenge
  
 **`Video Demo`:**
 
